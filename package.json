@@ -1,8 +1,11 @@
 {
   "name": "site-scraper",
   "version": "0.0.1",
+  "description": "part of web-scraper-chrome-extension run on node",
   "main": "index.js",
-  "license": "MIT",
+  "repository": "https://github.com/shang-package/site-scraper.git",
+  "author": "xinshangshangxin <xinshangshangxin@gmail.com>",
+  "license": "LGPLv3",
   "dependencies": {
     "cheerio": "^0.22.0",
     "jquery-deferred": "^0.3.1",
