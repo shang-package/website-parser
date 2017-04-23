@@ -1,6 +1,6 @@
 {
   "name": "site-scraper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "part of web-scraper-chrome-extension run on node",
   "main": "index.js",
   "repository": "https://github.com/shang-package/site-scraper.git",

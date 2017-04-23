@@ -1,4 +1,3 @@
-
 var data = require('./data');
 
 var config = {
@@ -33,7 +32,10 @@ var config = {
       "id": "date",
       "selector": "span.time",
       "regex": "\\d+\\-\\d+",
-      "delay": ""
+      "delay": "",
+      extraFun: function (value) {
+        return new Date(new Date().getFullYear() + '-' + value);
+      }
     }, {
       "parentSelectors": ["item"],
       "type": "SelectorText",
