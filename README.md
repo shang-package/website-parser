@@ -2,7 +2,7 @@
 
 ## description
 
-let part of [web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) functions run on node
+let [web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) parser functions run on node
 
 ## example
 

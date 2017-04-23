@@ -1,9 +1,9 @@
 {
-  "name": "site-scraper",
+  "name": "website-parser",
   "version": "0.0.2",
-  "description": "part of web-scraper-chrome-extension run on node",
+  "description": "let web-scraper-chrome-extension parser function run on node",
   "main": "index.js",
-  "repository": "https://github.com/shang-package/site-scraper.git",
+  "repository": "https://github.com/shang-package/website-parser.git",
   "author": "xinshangshangxin <xinshangshangxin@gmail.com>",
   "license": "LGPLv3",
   "dependencies": {
