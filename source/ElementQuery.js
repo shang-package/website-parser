@@ -55,6 +55,6 @@ ElementQuery.getSelectorParts = function(CSSSelector) {
 	if(currentSelector.trim().length) {
 		resultSelectors.push(currentSelector.trim());
 	}
-	
+
 	return resultSelectors;
 };
