@@ -1,4 +1,4 @@
-# site-scraper
+# website-parser
 
 ## description
 
@@ -7,13 +7,13 @@ let [web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper
 ## example
 
 ```js
-var config = {
+let config = {
   sitemap: 'export from web-scraper-chrome-extension',
   html: 'the page html',
 };
 
-require('site-scraper')(config)
+require('website-parser')(config)
   .then(function (data) {
-    console.log("dataextractor data", data);
+    console.log('data:', data);
   });
 ```
