@@ -1,6 +1,6 @@
 {
   "name": "website-parser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "let web-scraper-chrome-extension parser function run on node",
   "main": "index.js",
   "repository": "https://github.com/shang-package/website-parser.git",
